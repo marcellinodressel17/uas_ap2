@@ -1,0 +1,56 @@
+CRITICAL - 2024-01-06 04:40:55 --> Undefined array key ""
+in APPPATH\Controllers\PembayaranController.php on line 103.
+ 1 APPPATH\Controllers\PembayaranController.php(103): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PembayaranController->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\uas_ap2\\public\\index.php')
+CRITICAL - 2024-01-06 04:45:19 --> Undefined array key ""
+in APPPATH\Controllers\PembayaranController.php on line 103.
+ 1 APPPATH\Controllers\PembayaranController.php(103): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PembayaranController->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\uas_ap2\\public\\index.php')
+CRITICAL - 2024-01-06 04:49:45 --> Undefined variable $tutorDipilih
+in APPPATH\Controllers\PembayaranController.php on line 102.
+ 1 APPPATH\Controllers\PembayaranController.php(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PembayaranController->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\uas_ap2\\public\\index.php')
+CRITICAL - 2024-01-06 04:53:11 --> Undefined variable $tutorDipilih
+in APPPATH\Controllers\PembayaranController.php on line 103.
+ 1 APPPATH\Controllers\PembayaranController.php(103): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PembayaranController->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\uas_ap2\\public\\index.php')
+CRITICAL - 2024-01-06 04:56:07 --> Undefined variable $tutorDipilih
+in APPPATH\Controllers\PembayaranController.php on line 102.
+ 1 APPPATH\Controllers\PembayaranController.php(102): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PembayaranController->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\uas_ap2\\public\\index.php')
+CRITICAL - 2024-01-06 05:03:44 --> Undefined variable $tutorDipilih
+in APPPATH\Controllers\PembayaranController.php on line 108.
+ 1 APPPATH\Controllers\PembayaranController.php(108): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PembayaranController->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\uas_ap2\\public\\index.php')
+CRITICAL - 2024-01-06 05:21:35 --> Undefined variable $tutorDipilih
+in APPPATH\Controllers\PembayaranController.php on line 108.
+ 1 APPPATH\Controllers\PembayaranController.php(108): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PembayaranController->bayar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\uas_ap2\\public\\index.php')
